@@ -3,8 +3,8 @@ Tempermonkey Script for getting a tool tip for keywords with descriptions
 
 // ==UserScript==
 // @name          ToolTip
-// @namespace     aganchan
-// @author        aganchan
+// @namespace     ChanduRamG
+// @author        ChanduRamG
 // @run-at        document-end
 // @version       1
 // @description   Shows a tooltip when text is selected
